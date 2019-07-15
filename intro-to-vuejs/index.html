@@ -22,6 +22,10 @@
             <p v-show="inventory <= 0">Out of Stock</p>
             <h2 v-if="onSale">on sale</h2>
             <h3>{{ description }}</h3>
+
+            <ul>
+                <li v-for="detail in details">{{ detail }}</li>
+            </ul>
         </div>
     </div>
 </div>

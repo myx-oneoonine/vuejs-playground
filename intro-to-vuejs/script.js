@@ -6,6 +6,7 @@ var app = new Vue({
         image: "./vmSocks-green.png",
         link: "http://google.co.th",
         inventory: 100,
-        onSale: true
+        onSale: true,
+        details: ["80% cotton", "20% polyester", "Gender-neutral"]
     }
 })

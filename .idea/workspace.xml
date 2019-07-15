@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5e4040-69c3-4e66-bffe-2f1ba4075329" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/intro-to-vuejs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro-to-vuejs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/intro-to-vuejs/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/intro-to-vuejs/script.js" afterDir="false" />
     </list>
@@ -16,7 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
+    <splitter split-orientation="vertical" split-proportion="0.57884026">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
@@ -31,8 +30,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/intro-to-vuejs/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="262">
-                  <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+                <state relative-caret-position="330">
+                  <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
@@ -44,8 +43,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/intro-to-vuejs/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+                <state relative-caret-position="153">
+                  <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
                 </state>
               </provider>
             </entry>
@@ -80,8 +79,8 @@
         <option value="$PROJECT_DIR$/intro-to-vuejs/lab01/index.html" />
         <option value="$PROJECT_DIR$/intro-to-vuejs/lab01/product_style" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/intro-to-vuejs/index.html" />
         <option value="$PROJECT_DIR$/intro-to-vuejs/script.js" />
+        <option value="$PROJECT_DIR$/intro-to-vuejs/index.html" />
       </list>
     </option>
   </component>
@@ -177,18 +176,18 @@
       <workItem from="1563164527011" duration="2481000" />
       <workItem from="1563180231700" duration="137000" />
       <workItem from="1563180382593" duration="3330000" />
-      <workItem from="1563186423478" duration="1392000" />
+      <workItem from="1563186423478" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15742000" />
+    <option name="totallyTimeSpent" value="16130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="853" y="23" width="1707" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21174377" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21174377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -203,7 +202,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2581132" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2581132" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
@@ -259,17 +258,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intro-to-vuejs/script.js">
+    <entry file="file://$PROJECT_DIR$/intro-to-vuejs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="330">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intro-to-vuejs/index.html">
+    <entry file="file://$PROJECT_DIR$/intro-to-vuejs/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="153">
+          <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
         </state>
       </provider>
     </entry>
